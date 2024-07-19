@@ -1,0 +1,17 @@
+
+<library path="libwhole_body_state_rviz_plugin">
+	<class name="whole_body_state_rviz_plugin/WholeBodyState"
+           type="whole_body_state_rviz_plugin::WholeBodyStateDisplay"
+           base_class_type="rviz::Display">
+	<description>
+		Displays the whole-body state published.
+	</description>
+	</class>
+	<class name="whole_body_state_rviz_plugin/WholeBodyTrajectory"
+           type="whole_body_state_rviz_plugin::WholeBodyTrajectoryDisplay"
+           base_class_type="rviz::Display">
+	<description>
+		Displays the whole-body trajectory generated.
+	</description>
+	</class>
+</library>

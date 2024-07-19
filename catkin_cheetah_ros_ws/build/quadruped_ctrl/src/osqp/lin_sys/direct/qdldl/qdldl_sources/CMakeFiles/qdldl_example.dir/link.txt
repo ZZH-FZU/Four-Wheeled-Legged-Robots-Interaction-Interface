@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -O3 -O3 -DNDEBUG -rdynamic CMakeFiles/qdldl_example.dir/examples/c/example.c.o -o /home/zzh/catkin_cheetah_ros_ws/devel/lib/quadruped_ctrl/qdldl_example  /home/zzh/catkin_cheetah_ros_ws/devel/lib/libqdldl.a  -lm -lrt -ldl 

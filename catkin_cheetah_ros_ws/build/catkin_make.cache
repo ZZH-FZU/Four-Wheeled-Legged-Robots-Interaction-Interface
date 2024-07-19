@@ -1,0 +1,2 @@
+add_obstacle:gamepad_ctrl-master:quadruped_ctrl:show_path:teleop_keyboard_controller:ui_controller:whole_body_state_msgs-master:whole_body_state_rviz_plugin
+-DCATKIN_DEVEL_PREFIX=/home/zzh/catkin_cheetah_ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zzh/catkin_cheetah_ros_ws/install -G Unix Makefiles

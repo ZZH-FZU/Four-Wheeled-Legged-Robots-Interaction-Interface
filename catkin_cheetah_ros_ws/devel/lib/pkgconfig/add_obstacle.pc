@@ -1,0 +1,8 @@
+prefix=/home/zzh/catkin_cheetah_ros_ws/devel
+
+Name: add_obstacle
+Description: Description of add_obstacle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

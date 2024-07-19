@@ -1,0 +1,2 @@
+package_renji
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/zzh/workspace/ros_qt_rj/devel -DCMAKE_INSTALL_PREFIX=/home/zzh/workspace/ros_qt_rj/install

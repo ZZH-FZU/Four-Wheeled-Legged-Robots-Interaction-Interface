@@ -1,0 +1,9 @@
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DPTHREAD_STACK_MIN=16384
+-DROS_PACKAGE_NAME="whole_body_state_rviz_plugin"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-DBOOST_TT_HAS_OPERATOR_HPP_INCLUDED
+-o
+/home/zzh/catkin_cheetah_ros_ws/build/whole_body_state_rviz_plugin/include/whole_body_state_rviz_plugin/moc_WholeBodyStateDisplay.cpp
+/home/zzh/catkin_cheetah_ros_ws/src/whole_body_state_rviz_plugin/include/whole_body_state_rviz_plugin/WholeBodyStateDisplay.h

@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -O3 -DNDEBUG -rdynamic CMakeFiles/osqp_demo.dir/examples/osqp_demo.c.o -o /home/zzh/catkin_cheetah_ros_ws/devel/lib/quadruped_ctrl/osqp_demo  -Wl,-rpath,/home/zzh/catkin_cheetah_ros_ws/devel/lib /home/zzh/catkin_cheetah_ros_ws/devel/lib/libosqp.so  -lm -lrt -ldl 

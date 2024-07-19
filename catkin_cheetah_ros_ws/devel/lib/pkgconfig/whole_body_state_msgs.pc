@@ -1,0 +1,8 @@
+prefix=/home/zzh/catkin_cheetah_ros_ws/devel
+
+Name: whole_body_state_msgs
+Description: Description of whole_body_state_msgs
+Version: 2.0.0
+Cflags: -I/home/zzh/catkin_cheetah_ros_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs geometry_msgs

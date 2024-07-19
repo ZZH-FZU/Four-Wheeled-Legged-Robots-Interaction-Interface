@@ -1,0 +1,8 @@
+prefix=/home/zzh/workspace/ros_qt_rj/install
+
+Name: package_renji
+Description: Description of package_renji
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

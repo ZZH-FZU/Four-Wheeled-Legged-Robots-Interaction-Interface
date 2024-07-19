@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/stop.png</file>
+        <file>img/setting.png</file>
+        <file>img/robot.png</file>
+        <file>img/right_2.png</file>
+        <file>img/right_1.png</file>
+        <file>img/phone.png</file>
+        <file>img/mic.png</file>
+        <file>img/logo.jpg</file>
+        <file>img/left_2.png</file>
+        <file>img/left_1.png</file>
+        <file>img/jinruchengxu.png</file>
+        <file>img/hand.png</file>
+        <file>img/forword_2.png</file>
+        <file>img/forword_1.png</file>
+        <file>img/camer.png</file>
+        <file>img/background.png</file>
+        <file>img/back_2.png</file>
+        <file>img/back_1.png</file>
+        <file>img/fzu_logo.png</file>
+    </qresource>
+</RCC>

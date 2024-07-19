@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "/home/zzh/catkin_cheetah_ros_ws/devel/lib/libquadruped_ctrl.pdb"
+  "/home/zzh/catkin_cheetah_ros_ws/devel/lib/libquadruped_ctrl.so"
+  "CMakeFiles/quadruped_ctrl.dir/src/Controllers/DesiredStateCommand.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/Controllers/DesiredStateCommand.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/Controllers/FootSwingTrajectory.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/Controllers/FootSwingTrajectory.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/Controllers/LegController.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/Controllers/LegController.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/Controllers/OrientationEstimator.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/Controllers/OrientationEstimator.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/Controllers/PositionVelocityEstimator.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/Controllers/PositionVelocityEstimator.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/Controllers/SafetyChecker.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/Controllers/SafetyChecker.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/Dynamics/FloatingBaseModel.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/Dynamics/FloatingBaseModel.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/Dynamics/Quadruped.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/Dynamics/Quadruped.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/GaitCtrller.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/GaitCtrller.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/ConvexMPCLocomotion.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/ConvexMPCLocomotion.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/Gait.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/Gait.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/OsqpTriples.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/OsqpTriples.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/RobotState.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/RobotState.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/SolverMPC.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/SolverMPC.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/SparseCMPC.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/SparseCMPC.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/SparseCMPC_Math.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/SparseCMPC_Math.cpp.o.d"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/convexMPC_interface.cpp.o"
+  "CMakeFiles/quadruped_ctrl.dir/src/MPC_Ctrl/convexMPC_interface.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/quadruped_ctrl.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

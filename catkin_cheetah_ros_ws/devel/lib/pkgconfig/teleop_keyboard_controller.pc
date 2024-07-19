@@ -1,0 +1,8 @@
+prefix=/home/zzh/catkin_cheetah_ros_ws/devel
+
+Name: teleop_keyboard_controller
+Description: Description of teleop_keyboard_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

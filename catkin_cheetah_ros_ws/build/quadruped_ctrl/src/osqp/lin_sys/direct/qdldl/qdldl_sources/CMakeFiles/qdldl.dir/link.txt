@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -O3 -O3 -O3 -DNDEBUG -shared -Wl,-soname,libqdldl.so -o /home/zzh/catkin_cheetah_ros_ws/devel/lib/libqdldl.so CMakeFiles/qdldl.dir/src/qdldl.c.o   -lm -lrt -ldl 

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zzh/catkin_cheetah_ros_ws/install/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/zzh/catkin_cheetah_ros_ws/devel
+
+Name: whole_body_state_rviz_plugin
+Description: Description of whole_body_state_rviz_plugin
+Version: 0.0.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

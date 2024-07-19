@@ -1,0 +1,8 @@
+prefix=/home/zzh/catkin_cheetah_ros_ws/install
+
+Name: quadruped_ctrl
+Description: Description of quadruped_ctrl
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime geometry_msgs

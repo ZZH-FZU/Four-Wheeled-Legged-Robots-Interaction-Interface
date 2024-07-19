@@ -1,0 +1,8 @@
+prefix=/home/zzh/catkin_cheetah_ros_ws/install
+
+Name: show_path
+Description: Description of show_path
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

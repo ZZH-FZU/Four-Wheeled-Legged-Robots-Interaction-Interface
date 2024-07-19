@@ -1,0 +1,20 @@
+
+<launch>
+  <arg name="device" default="video0"/>  
+  
+  <node name="usb_cam" pkg="usb_cam" type="usb_cam_node" output="screen" >
+    <param name="video_device" value="/dev/$(arg device)" />
+    <param name="image_width" value="640" />
+    <param name="image_height" value="480" />
+    <param name="pixel_format" value="yuyv" />
+    <param name="camera_frame_id" value="usb_cam" />
+    <param name="io_method" value="mmap"/>
+    <param name="camera_name" value="camera"/>
+  </node>
+  <node name="hands_gesture" pkg="mediapipe_ros" type="hands_gesture.py" launch-prefix="gnome-terminal --title=hands_gesture -x"/>
+  
+  
+
+</launch>
+
+
