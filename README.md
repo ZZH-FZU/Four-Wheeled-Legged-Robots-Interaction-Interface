@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 ```
 mkdir -p ~/qt_ws
 cd ~/qt_ws
-git clone https://github.com/ZZH-FZU/Four-Wheeled-Legged-Robots-Interaction-Interface.git
+git clone https://github.com/ZZH-FZU/Quadruped-Wheeled-legged-Robots-Interaction-Interface.git
 ```
 *注：*
 *1.项目中 /ros_qt_rj 为四轮足机器人QT智能交互程序界面源码*  
