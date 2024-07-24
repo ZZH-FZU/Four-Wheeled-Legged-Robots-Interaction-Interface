@@ -31,7 +31,7 @@ mkdir -p ~/qt_ws
 cd ~/qt_ws
 git clone https://github.com/ZZH-FZU/Quadruped-Wheeled-legged-Robots-Interaction-Interface.git
 ```
-*注：*
+*注：*  
 *1.项目中 /ros_qt_rj 为四轮足机器人QT智能交互程序界面源码*  
 *2. /speech_recognition 为基于轻量化架构，整合MFCC的CNN语音识别模型，训练并精准识别具体需求场景的语音识别ROS项目源码*  
 *3. /mediapipe_ros 为基于MediaPipe轻量化框架和CNN的手势识别ROS项目源码*  
